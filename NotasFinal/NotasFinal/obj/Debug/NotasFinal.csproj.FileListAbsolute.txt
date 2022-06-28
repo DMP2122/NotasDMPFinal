@@ -1,0 +1,6 @@
+C:\Users\desmp\Source\Repos\NotasDMPFinal\NotasFinal\NotasFinal\obj\Debug\NotasFinal.csproj.AssemblyReference.cache
+C:\Users\desmp\Source\Repos\NotasDMPFinal\NotasFinal\NotasFinal\obj\Debug\NotasFinal.csproj.CoreCompileInputs.cache
+C:\Users\desmp\Source\Repos\NotasDMPFinal\NotasFinal\NotasFinal\bin\Debug\NotasFinal.dll
+C:\Users\desmp\Source\Repos\NotasDMPFinal\NotasFinal\NotasFinal\bin\Debug\NotasFinal.pdb
+C:\Users\desmp\Source\Repos\NotasDMPFinal\NotasFinal\NotasFinal\obj\Debug\NotasFinal.dll
+C:\Users\desmp\Source\Repos\NotasDMPFinal\NotasFinal\NotasFinal\obj\Debug\NotasFinal.pdb
